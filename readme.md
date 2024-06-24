@@ -109,4 +109,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Solo leveling live wallpaper | This video is used for landing page background | https://pin.it/ArzX0XmmN |
+| Chainsawman Power Background | This video is usedfor tge background of hero in page 3 | https://pin.it/7pOayi3Ql |
+| COSMOS PACK | This video is used for cards page 6 background | https://pin.it/6p4dNlYkd |
