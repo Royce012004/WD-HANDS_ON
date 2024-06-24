@@ -110,5 +110,9 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Solo leveling live wallpaper | This video is used for landing page background | https://pin.it/ArzX0XmmN |
+
 | Chainsawman Power Background | This video is usedfor tge background of hero in page 3 | https://pin.it/7pOayi3Ql |
 | COSMOS PACK | This video is used for cards page 6 background | https://pin.it/6p4dNlYkd |
+| Joy png | this png is used in Page 6 as a card example | https://pin.it/1DiohPqIX |
+| Inside out poster | this photo is used in the hero 5 as a profiles of emotion | https://pin.it/481koIf5f |
+| Insideout headquarters background | This photo is used as a background for page 5 of hero| https://pin.it/481koIf5f |
